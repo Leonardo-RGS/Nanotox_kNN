@@ -30,7 +30,7 @@ O banco de dados utilizado foi o *"Nanoparticle Toxicity Dataset"*, disponibiliz
 
 ## Como instalar
 
-O repositório pode ser instalado clonando o repositório ou baixando o arquivo zip.
+O repositório pode ser instalado clonando o repositório ou realizando o download do arquivo zip.
 
 As bibliotecas utilizadas são: pandas, matplotlib, scikit-learn, seaborn.
 
@@ -55,7 +55,7 @@ pip intall seaborn
 ```
 
 ## Uso de IA
-o autor utilizou pra ajeitar texto e ajuda nas bibliotecas com gráficos
+O autor utilizou para auxílio com ortografia e organização do texto e incremento visual nas construções gráficas com as bibliotecas seaborn e matplotlib.
 
 ## Licença do Nanotox_kNN 
 
